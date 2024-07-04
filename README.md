@@ -1,5 +1,5 @@
-### Hi there 👋, I am Paolo Delgado
-#### About me 👾
+# Hi there 👋, I am Paolo Delgado
+## About me 👾
 Hello world, I'm Paolo Delgado a 21-year-old programmer from Peru. I am currently studying and working towards my undergraduate degree in Computer Science, but my passion for learning leads me to seek new horizons.
 
 I have always had a special interest in data management and handling, as well as artificial intelligence and the unfailing love for video games, so my goal is to enter the world of programming to contribute to the development of innovative and fun solutions that help others in their day to day and create a positive impact in the digital world
